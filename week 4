@@ -33,6 +33,14 @@ public class Areas {
             System.out.println("Area of triangle is : "+area);
         }
    
+HELLO WORLD
+
+
+public class Helloworld {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }    
+}
 
 
 
